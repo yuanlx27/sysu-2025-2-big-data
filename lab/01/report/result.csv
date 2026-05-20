@@ -1,0 +1,3 @@
+method,dataset,accuracy,train_time_sec,test_time_sec
+SVM,MNIST,0.9470,0.3914,0.3162
+CNN,MNIST,0.9190,1.7363,0.0229
