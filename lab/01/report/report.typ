@@ -1,7 +1,7 @@
 #import "@local/bubble-sysu:0.1.0": *
 
 #show: report.with(
-  title: "图像边缘检测与分类",
+  title: "实验一：图像边缘检测与分类",
   subtitle: "大数据原理与技术实验报告",
   student: (name: "元朗曦", id: "23336294"),
   school: "计算机学院",
