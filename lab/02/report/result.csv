@@ -1,0 +1,13 @@
+metric,value
+nodes,43
+relationships,30
+node_Concept,12
+node_Institution,8
+node_Paper,3
+node_Person,17
+node_Year,3
+relation_AFFILIATED_WITH,4
+relation_AUTHORED,15
+relation_PROPOSED,3
+relation_PUBLISHED_IN,3
+relation_RELATED_TO,5

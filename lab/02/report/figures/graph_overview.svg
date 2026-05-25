@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#64748b"/></marker></defs>
+<text x="40" y="48" font-family="Arial" font-size="28" font-weight="700" fill="#111827">AI Knowledge Graph Overview</text>
+<line x1="622.3" y1="107.0" x2="307.7" y2="258.5" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="465.0" y="182.8" font-family="Arial" font-size="12" fill="#475569">AUTHORED</text>
+<line x1="734.6" y1="161.1" x2="812.3" y2="501.5" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="773.4" y="331.3" font-family="Arial" font-size="12" fill="#475569">PROPOSED</text>
+<line x1="385.4" y1="598.9" x2="734.6" y2="598.9" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="560.0" y="598.9" font-family="Arial" font-size="12" fill="#475569">RELATED_TO</text>
+<line x1="385.4" y1="598.9" x2="840.0" y2="380.0" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="612.7" y="489.5" font-family="Arial" font-size="12" fill="#475569">RELATED_TO</text>
+<line x1="840.0" y1="380.0" x2="622.3" y2="653.0" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="731.2" y="516.5" font-family="Arial" font-size="12" fill="#475569">RELATED_TO</text>
+<line x1="840.0" y1="380.0" x2="497.7" y2="653.0" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="668.8" y="516.5" font-family="Arial" font-size="12" fill="#475569">RELATED_TO</text>
+<circle cx="840.0" cy="380.0" r="34" fill="#8b5cf6" opacity="0.92"/>
+<text x="840.0" y="434.0" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">Transformer</text>
+<circle cx="812.3" cy="501.5" r="34" fill="#8b5cf6" opacity="0.92"/>
+<text x="812.3" y="555.5" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">convolutional neural networks</text>
+<circle cx="734.6" cy="598.9" r="34" fill="#8b5cf6" opacity="0.92"/>
+<text x="734.6" y="652.9" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">deep learning</text>
+<circle cx="622.3" cy="653.0" r="34" fill="#8b5cf6" opacity="0.92"/>
+<text x="622.3" y="707.0" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">natural language processing</text>
+<circle cx="497.7" cy="653.0" r="34" fill="#8b5cf6" opacity="0.92"/>
+<text x="497.7" y="707.0" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">self-attention</text>
+<circle cx="385.4" cy="598.9" r="34" fill="#10b981" opacity="0.92"/>
+<text x="385.4" y="652.9" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">Google Brain</text>
+<circle cx="307.7" cy="501.5" r="34" fill="#10b981" opacity="0.92"/>
+<text x="307.7" y="555.5" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">OpenAI</text>
+<circle cx="280.0" cy="380.0" r="34" fill="#10b981" opacity="0.92"/>
+<text x="280.0" y="434.0" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">University of Toronto</text>
+<circle cx="307.7" cy="258.5" r="34" fill="#f97316" opacity="0.92"/>
+<text x="307.7" y="312.5" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">AlexNet</text>
+<circle cx="385.4" cy="161.1" r="34" fill="#f97316" opacity="0.92"/>
+<text x="385.4" y="215.1" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">Attention Is All You Need</text>
+<circle cx="497.7" cy="107.0" r="34" fill="#f97316" opacity="0.92"/>
+<text x="497.7" y="161.0" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">BERT</text>
+<circle cx="622.3" cy="107.0" r="34" fill="#3b82f6" opacity="0.92"/>
+<text x="622.3" y="161.0" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">Geoffrey Hinton</text>
+<circle cx="734.6" cy="161.1" r="34" fill="#3b82f6" opacity="0.92"/>
+<text x="734.6" y="215.1" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">Yann LeCun</text>
+<circle cx="812.3" cy="258.5" r="34" fill="#3b82f6" opacity="0.92"/>
+<text x="812.3" y="312.5" text-anchor="middle" font-family="Arial" font-size="14" fill="#111827">Yoshua Bengio</text>
+<circle cx="42" cy="88" r="8" fill="#3b82f6"/>
+<text x="60" y="93" font-family="Arial" font-size="15" fill="#334155">Person</text>
+<circle cx="42" cy="116" r="8" fill="#f97316"/>
+<text x="60" y="121" font-family="Arial" font-size="15" fill="#334155">Paper</text>
+<circle cx="42" cy="144" r="8" fill="#10b981"/>
+<text x="60" y="149" font-family="Arial" font-size="15" fill="#334155">Institution</text>
+<circle cx="42" cy="172" r="8" fill="#8b5cf6"/>
+<text x="60" y="177" font-family="Arial" font-size="15" fill="#334155">Concept</text>
+<circle cx="42" cy="200" r="8" fill="#64748b"/>
+<text x="60" y="205" font-family="Arial" font-size="15" fill="#334155">Year</text>
+</svg>
