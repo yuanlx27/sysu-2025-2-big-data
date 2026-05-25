@@ -1,0 +1,3 @@
+CREATE CONSTRAINT entity_id IF NOT EXISTS
+FOR (e:Entity)
+REQUIRE e.id IS UNIQUE;
