@@ -1,9 +1,4 @@
-# Python vertual environment.
-.venv/
-
-# Python package cache.
 __pycache__/
-
-# Project related files.
 data/
 models/
+*.pdf
