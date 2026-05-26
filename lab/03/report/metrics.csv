@@ -1,0 +1,7 @@
+algorithm,param,clusters,noise_points,accuracy,silhouette,calinski_harabasz
+kmeans,k=2,2,0,0.6667,0.5818,251.3493
+kmeans,k=3,3,0,0.8533,0.4565,239.4845
+kmeans,k=4,4,0,0.8333,0.4151,206.2286
+dbscan,"eps=0.4, min_samples=5",6,66,0.5600,0.4865,144.1031
+dbscan,"eps=0.6, min_samples=5",2,26,0.5867,0.6419,330.9165
+dbscan,"eps=0.8, min_samples=5",2,4,0.6600,0.5979,277.6510
