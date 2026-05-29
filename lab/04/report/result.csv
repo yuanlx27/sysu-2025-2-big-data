@@ -1,0 +1,4 @@
+model,feature,accuracy,train_time_sec,test_time_sec
+Logistic Regression,TF-IDF,0.8890,4.49,1.50
+Linear SVM,TF-IDF,0.8744,4.61,1.57
+GRU RNN,Word Embedding,0.7893,37.50,2.73
