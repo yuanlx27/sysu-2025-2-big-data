@@ -1,0 +1,14 @@
+[
+  {
+    "image": "data/samples/cat_dog.jpg",
+    "question": "What animal is in front?"
+  },
+  {
+    "image": "data/samples/cat_dog.jpg",
+    "question": "What animal is behind the cat?"
+  },
+  {
+    "image": "data/samples/cat_dog.jpg",
+    "question": "How many dogs are in the image?"
+  }
+]

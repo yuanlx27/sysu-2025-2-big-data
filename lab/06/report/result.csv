@@ -1,0 +1,4 @@
+image,question,answer,confidence,model
+data/samples/cat_dog.jpg,What animal is in front?,cat,0.9395,dandelin/vilt-b32-finetuned-vqa
+data/samples/cat_dog.jpg,What animal is behind the cat?,dog,0.9940,dandelin/vilt-b32-finetuned-vqa
+data/samples/cat_dog.jpg,How many dogs are in the image?,1,0.9979,dandelin/vilt-b32-finetuned-vqa
